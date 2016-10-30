@@ -21,24 +21,22 @@
 		<jetty.plugin.version>9.3.9.v20160517</jetty.plugin.version>
 	</properties>
 
-    <!--
 	<organization>
-		<name>My Name</name>
-		<url>https://github.com/mygithubaccount/C/</url>
+		<name>AMahdy</name>
+		<url>https://github.com/amahdy/vaadin-local-time-add-on</url>
 	</organization>
 
 	<scm>
-		<url>git://github.com/mygithubaccount/C.git</url>
-		<connection>scm:git:git://github.com/mygithubaccount/C.git</connection>
-		<developerConnection>scm:git:ssh://git@github.com:/mygithubaccount/${componentClassName}.git</developerConnection>
-		<tag>C add-on for Vaadin</tag>
+		<url>git://github.com/amahdy/vaadin-local-time-add-on.git</url>
+		<connection>scm:git:git://github.com/amahdy/vaadin-local-time-add-on.git</connection>
+		<developerConnection>scm:git:ssh://git@github.com:/amahdy/vaadin-local-time-add-on.git</developerConnection>
+		<tag>LocalTime add-on for Vaadin</tag>
 	</scm>
 
 	<issueManagement>
 		<system>GitHub</system>
-		<url>https://github.com/mygithubaccount/C/issues</url>
+		<url>https://github.com/amahdy/vaadin-local-time-add-on/issues</url>
 	</issueManagement>
-    -->
 
 	<licenses>
 		<license>
