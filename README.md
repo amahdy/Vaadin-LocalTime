@@ -1,4 +1,4 @@
-# LocalTime Add-on for Vaadin 7
+# LocalTime Add-on for Vaadin 8
 
 LocalTime is a UI component add-on for Vaadin 7.
 
